@@ -1,3 +1,8 @@
+**Destinataire :** Fleur Roussel
+**Date :** 08/10/2026
+**AUteur :** Yann
+
+
 # PARTIE A
 
 - **Internet :** Internet est le réseau global dans lequel on va retrouver plusieurs services comme le Web, les mails (SMTP, IMAP), l’échange de fichiers (FTP), etc.
@@ -31,3 +36,5 @@
   **Exemples :** Erreur 404 (*Not Found*) : la page n’existe pas ; erreur 500 (*Internal Server Error*) : la demande est correcte mais le serveur a rencontré une erreur.
 
 - **API :** C’est une passerelle logicielle qui permet à deux applications ou services de communiquer et d’échanger des données entre eux. On peut prendre comme exemple un affichage de la météo sur un site ou encore une carte interactive.
+
+
