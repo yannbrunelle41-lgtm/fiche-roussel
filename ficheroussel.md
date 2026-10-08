@@ -37,4 +37,5 @@
 
 - **API :** C’est une passerelle logicielle qui permet à deux applications ou services de communiquer et d’échanger des données entre eux. On peut prendre comme exemple un affichage de la météo sur un site ou encore une carte interactive.
 
+**Réponse erreur 404 :** L’erreur 404 nous dit que la page web est introuvable. Ça veut que le fichier de votre serveur n’a pas été trouvé. Il nous suffit de retrouver le fichier de votre serveur qui génère ce lien pour vérifier ce qui cloche.
 
