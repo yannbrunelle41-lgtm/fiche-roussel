@@ -39,3 +39,4 @@
 
 **Réponse erreur 404 :** L’erreur 404 nous dit que la page web est introuvable. Ça veut que le fichier de votre serveur n’a pas été trouvé. Il nous suffit de retrouver le fichier de votre serveur qui génère ce lien pour vérifier ce qui cloche.
 
+**Conclusion :** vérifier l'html et/ou le chemin d'accès à la page web.
