@@ -1,5 +1,6 @@
-
-
+**Destinataire :** Fleur Roussel
+**Date :** 08/10/2026
+**AUteur :** Yann
 
 # PARTIE A
 
